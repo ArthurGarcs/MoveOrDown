@@ -17,7 +17,7 @@
 ## 🧐 **Sobre o Projeto**
 
 **"MoveOrDown"** é uma aplicação desenvolvida para **[Flutter e Flame]**.  
-- 🚀 **Objetivo Principal**: Resolver um problema específico.
+- 🚀 **Objetivo Principal**: Desenvolver um jogo para Mobile.
 - 🌟 **Diferenciais**:
   - •	Um sprite que pode se mover na horizontal e vertical.
   - •	Plataformas geradas aleatoriamente.
